@@ -18,7 +18,7 @@
         class="flex justify-center items-center rounded-[12px] p-[16px_19px] border border-light-gray text-main-gray bg-white hover:bg-main-gray"
         @click="changePage(current - 1)"
       >
-        >
+        <
       </button>
       <button
         v-for="(item, index) in onlyFive"
